@@ -1,3 +1,23 @@
 .cart {
   color: whitesmoke;
 }
+.orange {
+  background-color: orange;
+  padding: 10px;
+}
+.purple {
+  background-color: purple;
+  padding: 10px;
+}
+.skyblue {
+  background-color: skyblue;
+  padding: 10px;
+}
+.teal {
+  background-color: teal;
+  padding: 10px;
+}
+.slateblue {
+  background-color: slateblue;
+  padding: 10px;
+}
