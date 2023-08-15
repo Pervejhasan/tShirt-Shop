@@ -1,0 +1,11 @@
+nav {
+  background-color: rgb(50, 123, 200);
+  padding: 15px;
+  box-shadow: rgba(212, 211, 211, 0.327) 0px 2px 8px 0px;
+}
+
+nav > a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: aliceblue;
+}
