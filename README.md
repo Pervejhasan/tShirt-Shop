@@ -12,4 +12,5 @@ Currently, two official plugins are available:
 **bold text**
 :smile:
 :cry:
-😍
+😍  
+~~javascript~~
